@@ -5,10 +5,15 @@ Version=2012.12.31
 [Profile Settings]
 
 [Set Settings]
+Set1Stick1Mode=Horizontal
 
 [Assignments]
-Set1Button3Slots=X
+Set1Button1Slots=X
+Set1Button2Slots=X
+Set1Button3Slots=Z
 Set1Button4Slots=Z
+Set1Button5Slots=X
+Set1Button6Slots=X
 Set1Button9Slots=Backspace
 Set1Button10Slots=Enter
 Set1DPadUpSlots=Arrow Up
