@@ -1,0 +1,51 @@
+;--- Xpadder Controller File ---
+DataType=Controller
+Version=2012.12.31
+
+[Button Locations]
+Button1Location=442,85
+Button2Location=473,113
+Button3Location=411,113
+Button4Location=441,142
+Button5Location=37,5
+Button6Location=449,6
+Button9Location=182,55
+Button10Location=292,54
+DPadUpLocation=134,142
+DPadRightLocation=166,174
+DPadDownLocation=134,206
+DPadLeftLocation=102,174
+Stick1UpLocation=56,59
+Stick1RightLocation=88,91
+Stick1DownLocation=56,123
+Stick1LeftLocation=24,91
+
+[Access]
+DPadUpAccess=POV
+DPadRightAccess=POV
+DPadDownAccess=POV
+DPadLeftAccess=POV
+Stick1XAccess=Axis X
+Stick1YAccess=Axis Y
+
+[Names]
+Button1Name=Botón 1
+Button2Name=Botón 2
+Button3Name=Botón 3
+Button4Name=Botón 4
+Button5Name=Botón 5
+Button6Name=Botón 6
+Button9Name=Botón 9
+Button10Name=Botón 10
+DPadName=Cruceta
+DPadUpName=Arriba
+DPadRightName=Derecha
+DPadDownName=Abajo
+DPadLeftName=Izquierda
+Stick1Name=Stick 1
+StickUpName=Arriba
+StickRightName=Derecha
+StickDownName=Abajo
+StickLeftName=Izquierda
+
+[Image]
