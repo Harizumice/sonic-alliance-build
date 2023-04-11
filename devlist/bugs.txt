@@ -1,4 +1,0 @@
-#REPORTE DE BUGS Y GLITCHES DENTRO DE SONIC ALLIANCE PARTE |
-
-    - Amy no destruye el badnik de la flor cuando lo ataca con el martillo.
-    
